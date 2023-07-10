@@ -7,3 +7,6 @@ Write a script that displays a confused smiley
 2. Let's display a file
 mandatory
 Display the content of the /etc/passwd file.
+6. Line #2
+mandatory
+Write a script that displays the third line of the file iacta.
